@@ -1,6 +1,14 @@
--  Hi, I’m @Llama a sys- and networkadmin
--  I’m interested in everything related to tech
--  preparing my longterm goal to switch all devices to Linux (incl. family-devices)
+<div align="center">
+
+<h1><samp>Wladimir "Llama" Miller</samp></h1>
+</div>
+
+#### Hey, I'm Llama, a network and sysadmin.
+<samp>I'm primarily building repositories for my own use, releasing them if there is a desire or need for it.
+<br>
+Currently, I am migrating most of the proprietary software and devices to Linux (including those used by my wife and children).</samp>
+
+
 
 <!---
 LlamasLab/LlamasLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
